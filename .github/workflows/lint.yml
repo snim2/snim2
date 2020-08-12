@@ -1,0 +1,12 @@
+name: markdownlint
+on: [pull_request]
+jobs:
+    markdownlint:
+        runs-on: ubuntu-latest
+        steps:
+        - name: Check out code
+          uses: actions/checkout@v2
+          with:
+              ref: ${{ github.event.pull_request.head.sha }}
+        - name: Run mdl
+          uses: actionshub/markdownlint@master
