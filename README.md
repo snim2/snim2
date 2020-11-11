@@ -9,4 +9,4 @@ I'm currently CTO at [Beautiful Canoe](https://beautifulcanoe.com/), a software 
 I'm also a Fellow of the [Software Sustainability Institute](https://www.software.ac.uk/).
 
 Before [Beautiful Canoe](https://beautifulcanoe.com/) I was an RA at [KCL](https://soft-dev.org/) working on visualising JIT optimisations, measuring JIT performance and AST-level differencing tools.
-Before that I was a Senior Lecture in Computer Science at [Wolverhampton](https://www.wlv.ac.uk/) and [Coventry](https://www.coventry.ac.uk/) universities.
+Before that I was a Senior Lecturer in Computer Science at [Wolverhampton](https://www.wlv.ac.uk/) and [Coventry](https://www.coventry.ac.uk/) universities.
