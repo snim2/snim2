@@ -1,7 +1,6 @@
 ## Hi there, I'm snim2
 
 [![Linkedin Badge](https://img.shields.io/badge/-snim2-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/snim2/ "Connect on LinkedIn")
-[![Twitter Badge](https://img.shields.io/badge/-@snim2-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=snim2 "Follow on Twitter")
 [![GitHub Badge](https://img.shields.io/github/followers/snim2?label=follow&style=social)](https://github.com/snim2)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://gitlab.com/snim2)
 
